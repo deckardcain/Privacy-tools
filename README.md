@@ -20,12 +20,16 @@ The most important thing when choosing a VPN provider is to pick one that doesn'
 
 # Browser plugins
 All though a lot of the following plugins exists for Chrome and other browser I recommend that you use Firefox. 
-
+* [BetterPrivacy](https://addons.mozilla.org/en-US/firefox/addon/betterprivacy/?src=cb-dl-mostpopular)
+* [Disconnect](https://disconnect.me/)
+* [DuckDuckGo](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/?src=search)
+* [HTTPS Everywhere](https://www.eff.org/https-everywhere)
 
 
 # TO DO
 * Add more VPNs
 * Explain more about VPN and the providers
-* Add browser plugins
+* Add more browser plugins
+* Explain what the plugins do
 * Add section on passwords
 
