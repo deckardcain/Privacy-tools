@@ -18,6 +18,10 @@ The most important thing when choosing a VPN provider is to pick one that doesn'
 * [PRIVATVPN](http://privatevpn)
 * [PRQ](http://prq.se)
 
+# Browser plugins
+All though a lot of the following plugins exists for Chrome and other browser I recommend that you use Firefox. 
+
+
 
 # TO DO
 * Add more VPNs
