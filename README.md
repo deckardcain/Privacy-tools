@@ -4,6 +4,7 @@ Privacy Tools
 Contents
 --------
 * VPN
+* Browser plugins
 * TO DO
 
 # VPN
